@@ -97,6 +97,14 @@ class CustomFonts {
         color: color);
   }
 
+  static TextStyle slussen9W400({Color? color = Colors.black}) {
+    return TextStyle(
+        fontFamily: "Slussen",
+        fontSize: 9,
+        fontWeight: FontWeight.w400,
+        color: color);
+  }
+
   static TextStyle slussen20W900({Color? color = Colors.black}) {
     return TextStyle(
         fontFamily: "Slussen",
@@ -176,7 +184,7 @@ class CustomFonts {
         fontWeight: FontWeight.w400,
         color: color);
   }
-  
+
   static TextStyle slussen12W600({Color? color = Colors.black}) {
     return TextStyle(
         fontFamily: "Slussen",
@@ -216,7 +224,6 @@ class CustomFonts {
         fontWeight: FontWeight.w600,
         color: color);
   }
-  
 
   static TextStyle slussen8W500({Color? color = Colors.black}) {
     return TextStyle(
@@ -257,7 +264,7 @@ class CustomFonts {
         fontWeight: FontWeight.w600,
         color: color);
   }
-  
+
   static TextStyle slussen18W700({Color? color = Colors.black}) {
     return TextStyle(
         fontFamily: "Slussen",
@@ -321,6 +328,7 @@ class CustomFonts {
         fontWeight: FontWeight.w300,
         color: color);
   }
+
   static TextStyle slussen10W500({Color? color = Colors.black}) {
     return TextStyle(
         fontFamily: "Slussen",
